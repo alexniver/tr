@@ -6,7 +6,7 @@
 
 ```bash
 # 从源码编译安装
-git clone <repo-url>
+git clone https://github.com/alexniver/tr
 cd tr
 cargo install --path .
 ```
